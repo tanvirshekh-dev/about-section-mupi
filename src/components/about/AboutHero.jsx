@@ -5,7 +5,7 @@ import heroImg from "../../../public/images/campus-001.png";
 const AboutHero = () => {
   return (
     <section className="relative h-[400px] w-full flex items-center justify-center bg-slate-900 overflow-hidden text-center">
-      {/* Background Image with Overlay */}
+      {/* Background Image */}
       <div className="absolute inset-0">
         <img 
           src={heroImg} 
@@ -16,9 +16,7 @@ const AboutHero = () => {
       </div>
 
       <div className="container mx-auto px-6 relative z-10">
-        {/* max-w-3xl এর সাথে mx-auto যোগ করা হয়েছে কন্টেন্ট মাঝে আনার জন্য */}
         <div className="max-w-3xl mx-auto">
-          {/* Simple Tag */}
           <p className="text-blue-400 font-bold uppercase tracking-widest text-sm mb-3">
             About Our Institute
           </p>
