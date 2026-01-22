@@ -1,5 +1,5 @@
 import React from "react";
-import { ArrowRight, Phone, Mail, MapPin } from "lucide-react";
+import { ArrowRight, Phone, Mail } from "lucide-react";
 
 const AboutCTA = () => {
   return (
