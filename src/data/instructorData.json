@@ -9,21 +9,21 @@
       "id": 1,
       "name": "Abdullah Al-Mamun",
       "designation": "Head of Computer Dept.",
-      "image": "../../public/images/ci sir 1st shift.jpg",
+      "image": "../../images/ci sir 1st shift.jpg",
       "social": { "linkedin": "#", "email": "mailto:test@example.com" }
     },
     {
       "id": 2,
       "name": "Arif Ahmed",
       "designation": "Head of Computer Dept.",
-      "image": "../../public/images/ci sir 2nd shift.jpeg",
+      "image": "../../images/ci sir 2nd shift.jpeg",
       "social": { "linkedin": "#", "email": "#" }
     },
     {
       "id": 3,
       "name": "Nazmul Hasan",
       "designation": "Head of Electrical Dept.",
-      "image": "../../public/images/ci sir 2nd shift electrical.jpeg",
+      "image": "../../images/ci sir 2nd shift electrical.jpeg",
       "social": { "linkedin": "#", "email": "#" }
     }
   ]

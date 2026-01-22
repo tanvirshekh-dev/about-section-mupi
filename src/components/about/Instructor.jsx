@@ -1,5 +1,5 @@
 import React from 'react';
-import { Mail, Linkedin, ArrowUpRight, Sparkles, Award, Star } from 'lucide-react';
+import { Mail, Linkedin, ArrowUpRight, Award, Star } from 'lucide-react';
 import facultyData from '../../data/instructorData.json';
 
 const Instructor = () => {
