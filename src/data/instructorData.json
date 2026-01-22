@@ -1,0 +1,30 @@
+{
+  "sectionHeader": {
+    "title": "Our Leadership & Instructors",
+    "description": "Meet the dedicated faculty members who are shaping the future of engineering at Munshiganj Polytechnic Institute.",
+    "buttonText": "View All Faculty"
+  },
+  "leaders": [
+    {
+      "id": 1,
+      "name": "Abdullah Al-Mamun",
+      "designation": "Head of Computer Dept.",
+      "image": "../../public/images/ci sir 1st shift.jpg",
+      "social": { "linkedin": "#", "email": "mailto:test@example.com" }
+    },
+    {
+      "id": 2,
+      "name": "Arif Ahmed",
+      "designation": "Head of Computer Dept.",
+      "image": "../../public/images/ci sir 2nd shift.jpeg",
+      "social": { "linkedin": "#", "email": "#" }
+    },
+    {
+      "id": 3,
+      "name": "Nazmul Hasan",
+      "designation": "Head of Electrical Dept.",
+      "image": "../../public/images/ci sir 2nd shift electrical.jpeg",
+      "social": { "linkedin": "#", "email": "#" }
+    }
+  ]
+}

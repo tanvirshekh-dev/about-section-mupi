@@ -1,0 +1,45 @@
+{
+  "about": {
+    "tagline": "ABOUT INSTITUTE",
+    "title": "Munshiganj Polytechnic Institute",
+    "description": "Munshiganj Polytechnic Institute is a premier technical institution committed to providing high-quality engineering education. Since its inception, we have been at the forefront of technical training in Bangladesh, producing skilled engineers and professional leaders.",
+    "subDescription": "The institute offers a modern learning environment with focus on hands-on practical training. Our expert faculty and well-equipped labs ensure that students receive industry-standard education and are ready to face global challenges.",
+    "buttonText": "Read More",
+    "images": [
+      "../assets/images/about-01.png",
+      "../assets/images/about-02.png"
+    ]
+  },
+  "notices": [
+    {
+      "id": 1,
+      "title": "Semester Final Exam Routine - Jan 2026",
+      "date": "Published: 20 Jan 2026",
+      "isNew": true
+    },
+    {
+      "id": 2,
+      "title": "Admission notice for session 2025-26",
+      "date": "Published: 18 Jan 2026",
+      "isNew": false
+    },
+    {
+      "id": 3,
+      "title": "Departmental meeting for Computer Technology",
+      "date": "Published: 15 Jan 2026",
+      "isNew": false
+    },
+    {
+      "id": 4,
+      "title": "Public holiday notice: International Mother Language Day",
+      "date": "Published: 10 Jan 2026",
+      "isNew": false
+    },
+    {
+      "id": 5,
+      "title": "Result of 5th semester mid-term exam",
+      "date": "Published: 05 Jan 2026",
+      "isNew": true
+    }
+  ]
+}

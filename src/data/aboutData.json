@@ -1,0 +1,57 @@
+{
+  "hero": {
+    "title": "About Munshiganj Polytechnic Institute",
+    "subTitle": "Established in 2006",
+    "location": "Mirkadim, Munshiganj, Bangladesh",
+    "bgImage": "../assets/images/campus.png"
+  },
+  
+  "notices": [
+  {
+    "id": 1,
+    "title": "Semester Final Exam Routine - 2026",
+    "date": "Jan 20, 2026",
+    "category": "Exam",
+    "isNew": true
+  },
+  {
+    "id": 2,
+    "title": "Admission Open for Shift 2 - Diploma in Engineering",
+    "date": "Jan 18, 2026",
+    "category": "Admission",
+    "isNew": true
+  },
+  {
+    "id": 3,
+    "title": "Public Holiday Notice: International Mother Language Day",
+    "date": "Jan 15, 2026",
+    "category": "Holiday",
+    "isNew": false
+  }
+],
+
+  "overview": {
+    "heading": "Leading the Path of Technical Innovation",
+    "text": "Munshiganj Polytechnic Institute (MPI) is a top-tier government institution under the Bangladesh Technical Education Board. We provide excellence in 8 specialized departments, focusing on creating industry-ready professionals.",
+    "stats": [
+      { "label": "Active Students", "value": "3000+" },
+      { "label": "Expert Faculty", "value": "100+" }
+    ]
+  },
+  "missionVision": {
+    "mission": "To empower students through high-quality technical education, vocational training, and skill development to meet the global industrial challenges.",
+    "vision": "To become a center of excellence in technical education, fostering innovation, creativity, and professional ethics among future engineers."
+  },
+  "whyChooseUs": [
+    { "id": 1, "title": "Government Certified", "desc": "A fully government-aided institution under BTEB." },
+    { "id": 2, "title": "Advanced Lab Facilities", "desc": "Modern machines and instruments for practical learning." },
+    { "id": 3, "title": "Industry Training", "desc": "Strong ties with industries for student internships." },
+    { "id": 4, "title": "Global Curriculum", "desc": "Syllabus designed to match 4IR requirements." }
+  ],
+  "facilities": [
+    { "title": "Digital Labs", "desc": "High-speed internet and modern PC setups." },
+    { "title": "Rich Library", "desc": "Thousands of technical and academic books." },
+    { "title": "Modern Workshop", "desc": "Hands-on training with industrial tools." },
+    { "title": "Smart Classes", "desc": "Multimedia supported interactive classrooms." }
+  ]
+}
